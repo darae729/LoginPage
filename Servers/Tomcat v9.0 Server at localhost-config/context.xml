@@ -33,11 +33,6 @@
 		global="jdbc/spring"
 		type="javax.sql.DataSource"/>
 		
-	<ResourceLink
-		name="jndi/news"
-		global="jndi/news"
-		type="javax.sql.DataSource"/>
-		
 		
     <!-- Uncomment this to disable session persistence across Tomcat restarts -->
     <!--
